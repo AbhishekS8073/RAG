@@ -1,0 +1,7 @@
+streamlit
+requests
+flask
+numpy
+langchain-community
+sentence-transformers
+faiss-cpu
